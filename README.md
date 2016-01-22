@@ -8,7 +8,7 @@ This is a resource to explain the Machine Hypermedia Toolkit and provide a refer
 [Brief overview of the Machine Hypermedia Toolkit and Demo]
 (https://github.com/connectIOT/HypermediaDemo/wiki/Overview)
 
-[Instructions and Links to resources used in the demo and about the demo]
+[Instructions and HATEOAS Discovery Tutorial]
 (https://github.com/connectIOT/HypermediaDemo/wiki/Instructions)
 
 [Links to resources and reference materials] (https://github.com/connectIOT/HypermediaDemo/wiki/References)
