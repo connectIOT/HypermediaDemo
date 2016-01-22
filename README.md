@@ -10,6 +10,6 @@ the system demonstrator.
 (https://github.com/connectIOT/HypermediaDemo/wiki/Overview)
 
 [Instructions and Links to resources used in the demo and about the demo]
-(https://github.com/connectIOT/HypermediaDemo/wiki/Instructions and Resources)
+(https://github.com/connectIOT/HypermediaDemo/wiki/Instructions)
 
 [Links to resources and reference materials] (https://github.com/connectIOT/HypermediaDemo/wiki/References)
