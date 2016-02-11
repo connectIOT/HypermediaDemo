@@ -5,10 +5,13 @@ This is a resource to explain the Machine Hypermedia Toolkit and provide a refer
 
 ### The wiki pages in this repository are intended to serve as a reference to the system demonstrator.
 
-[Brief overview of the Machine Hypermedia Toolkit and Demo]
+[Brief overview of the Machine Hypermedia Toolkit]
 (https://github.com/connectIOT/HypermediaDemo/wiki/Overview)
 
 [Instructions and HATEOAS Discovery Tutorial]
 (https://github.com/connectIOT/HypermediaDemo/wiki/Instructions)
+
+[Demonstration of stepwise HATEOAS Discovery using a Semantic FIlter]
+(https://github.com/connectIOT/HypermediaDemo/wiki/Demonstrations)
 
 [Links to resources and reference materials] (https://github.com/connectIOT/HypermediaDemo/wiki/References)
